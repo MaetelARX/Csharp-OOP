@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\01Person\02Zoo\bin\Debug\net6.0\02Zoo.exe
+C:\Users\Plamen\source\repos\01Person\02Zoo\bin\Debug\net6.0\02Zoo.deps.json
+C:\Users\Plamen\source\repos\01Person\02Zoo\bin\Debug\net6.0\02Zoo.runtimeconfig.json
+C:\Users\Plamen\source\repos\01Person\02Zoo\bin\Debug\net6.0\02Zoo.dll
+C:\Users\Plamen\source\repos\01Person\02Zoo\bin\Debug\net6.0\02Zoo.pdb
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\02Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\02Zoo.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\02Zoo.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\02Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\02Zoo.dll
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\refint\02Zoo.dll
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\02Zoo.pdb
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\02Zoo.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\01Person\02Zoo\obj\Debug\net6.0\ref\02Zoo.dll
