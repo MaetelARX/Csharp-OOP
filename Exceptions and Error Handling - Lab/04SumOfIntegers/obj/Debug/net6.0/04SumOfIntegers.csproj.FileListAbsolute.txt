@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\bin\Debug\net6.0\04SumOfIntegers.exe
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\bin\Debug\net6.0\04SumOfIntegers.deps.json
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\bin\Debug\net6.0\04SumOfIntegers.runtimeconfig.json
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\bin\Debug\net6.0\04SumOfIntegers.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\bin\Debug\net6.0\04SumOfIntegers.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\04SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\04SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\04SumOfIntegers.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\04SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\04SumOfIntegers.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\refint\04SumOfIntegers.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\04SumOfIntegers.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\04SumOfIntegers.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\04SumOfIntegers\obj\Debug\net6.0\ref\04SumOfIntegers.dll

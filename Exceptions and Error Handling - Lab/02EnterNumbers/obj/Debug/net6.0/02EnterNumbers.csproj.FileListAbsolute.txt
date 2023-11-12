@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\bin\Debug\net6.0\02EnterNumbers.exe
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\bin\Debug\net6.0\02EnterNumbers.deps.json
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\bin\Debug\net6.0\02EnterNumbers.runtimeconfig.json
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\bin\Debug\net6.0\02EnterNumbers.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\bin\Debug\net6.0\02EnterNumbers.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\02EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\02EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\02EnterNumbers.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\02EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\02EnterNumbers.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\refint\02EnterNumbers.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\02EnterNumbers.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\02EnterNumbers.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\02EnterNumbers\obj\Debug\net6.0\ref\02EnterNumbers.dll

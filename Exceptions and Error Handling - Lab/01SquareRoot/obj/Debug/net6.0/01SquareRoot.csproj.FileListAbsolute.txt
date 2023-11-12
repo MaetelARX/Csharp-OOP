@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\bin\Debug\net6.0\01SquareRoot.exe
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\bin\Debug\net6.0\01SquareRoot.deps.json
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\bin\Debug\net6.0\01SquareRoot.runtimeconfig.json
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\bin\Debug\net6.0\01SquareRoot.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\bin\Debug\net6.0\01SquareRoot.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\01SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\01SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\01SquareRoot.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\01SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\01SquareRoot.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\refint\01SquareRoot.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\01SquareRoot.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\01SquareRoot.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\01SquareRoot\obj\Debug\net6.0\ref\01SquareRoot.dll

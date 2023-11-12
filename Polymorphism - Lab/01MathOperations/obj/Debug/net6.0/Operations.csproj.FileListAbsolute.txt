@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\Polymorphism\Operations\bin\Debug\net6.0\Operations.exe
+C:\Users\Plamen\source\repos\Polymorphism\Operations\bin\Debug\net6.0\Operations.deps.json
+C:\Users\Plamen\source\repos\Polymorphism\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+C:\Users\Plamen\source\repos\Polymorphism\Operations\bin\Debug\net6.0\Operations.dll
+C:\Users\Plamen\source\repos\Polymorphism\Operations\bin\Debug\net6.0\Operations.pdb
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\Operations.dll
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\refint\Operations.dll
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\Operations.pdb
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\Polymorphism\Operations\obj\Debug\net6.0\ref\Operations.dll

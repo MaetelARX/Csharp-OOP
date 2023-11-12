@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\bin\Debug\net6.0\03Cards.exe
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\bin\Debug\net6.0\03Cards.deps.json
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\bin\Debug\net6.0\03Cards.runtimeconfig.json
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\bin\Debug\net6.0\03Cards.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\bin\Debug\net6.0\03Cards.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\03Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\03Cards.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\03Cards.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\03Cards.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\03Cards.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\refint\03Cards.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\03Cards.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\03Cards.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\03Cards\obj\Debug\net6.0\ref\03Cards.dll

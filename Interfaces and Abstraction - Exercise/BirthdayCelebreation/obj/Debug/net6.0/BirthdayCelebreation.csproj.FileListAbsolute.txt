@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\bin\Debug\net6.0\BirthdayCelebreation.exe
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\bin\Debug\net6.0\BirthdayCelebreation.deps.json
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\bin\Debug\net6.0\BirthdayCelebreation.runtimeconfig.json
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\bin\Debug\net6.0\BirthdayCelebreation.dll
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\bin\Debug\net6.0\BirthdayCelebreation.pdb
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\BirthdayCelebreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\BirthdayCelebreation.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\BirthdayCelebreation.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\BirthdayCelebreation.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\BirthdayCelebreation.dll
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\refint\BirthdayCelebreation.dll
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\BirthdayCelebreation.pdb
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\BirthdayCelebreation.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\PersonInfo\BirthdayCelebreation\obj\Debug\net6.0\ref\BirthdayCelebreation.dll

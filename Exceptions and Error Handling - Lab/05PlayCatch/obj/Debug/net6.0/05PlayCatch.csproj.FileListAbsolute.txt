@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\bin\Debug\net6.0\05PlayCatch.exe
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\bin\Debug\net6.0\05PlayCatch.deps.json
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\bin\Debug\net6.0\05PlayCatch.runtimeconfig.json
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\bin\Debug\net6.0\05PlayCatch.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\bin\Debug\net6.0\05PlayCatch.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\05PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\05PlayCatch.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\05PlayCatch.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\05PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\05PlayCatch.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\refint\05PlayCatch.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\05PlayCatch.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\05PlayCatch.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\05PlayCatch\obj\Debug\net6.0\ref\05PlayCatch.dll

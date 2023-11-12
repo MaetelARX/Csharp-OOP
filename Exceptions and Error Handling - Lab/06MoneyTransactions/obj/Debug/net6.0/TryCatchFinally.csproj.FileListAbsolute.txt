@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.exe
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.deps.json
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.runtimeconfig.json
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\TryCatchFinally.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\refint\TryCatchFinally.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\TryCatchFinally.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\ref\TryCatchFinally.dll

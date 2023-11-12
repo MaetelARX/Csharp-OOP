@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\06MoneyTransiction.exe
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\06MoneyTransiction.deps.json
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\06MoneyTransiction.runtimeconfig.json
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\06MoneyTransiction.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\net6.0\06MoneyTransiction.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\06MoneyTransiction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\06MoneyTransiction.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\06MoneyTransiction.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\06MoneyTransiction.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\06MoneyTransiction.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\refint\06MoneyTransiction.dll
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\06MoneyTransiction.pdb
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\06MoneyTransiction.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\net6.0\ref\06MoneyTransiction.dll

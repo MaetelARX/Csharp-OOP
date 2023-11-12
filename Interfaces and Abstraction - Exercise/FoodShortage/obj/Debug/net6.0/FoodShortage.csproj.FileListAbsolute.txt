@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\bin\Debug\net6.0\FoodShortage.exe
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\bin\Debug\net6.0\FoodShortage.deps.json
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\bin\Debug\net6.0\FoodShortage.runtimeconfig.json
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\bin\Debug\net6.0\FoodShortage.dll
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\bin\Debug\net6.0\FoodShortage.pdb
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\FoodShortage.dll
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\refint\FoodShortage.dll
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\FoodShortage.pdb
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\FoodShortage.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\PersonInfo\FoodShortage\obj\Debug\net6.0\ref\FoodShortage.dll
